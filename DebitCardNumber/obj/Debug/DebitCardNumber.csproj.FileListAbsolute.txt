@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

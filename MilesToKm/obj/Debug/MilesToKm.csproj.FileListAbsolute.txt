@@ -1,0 +1,6 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\MilesToKm\bin\Debug\MilesToKm.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\MilesToKm\bin\Debug\MilesToKm.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\MilesToKm\bin\Debug\MilesToKm.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\MilesToKm\obj\Debug\MilesToKm.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\MilesToKm\obj\Debug\MilesToKm.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\MilesToKm\obj\Debug\MilesToKm.pdb

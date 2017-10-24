@@ -1,0 +1,7 @@
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\CharacterStats\obj\Debug\CharacterStats.csprojResolveAssemblyReference.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\CharacterStats\obj\Debug\CharacterStats.csproj.CoreCompileInputs.cache
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe.config
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\CharacterStats\bin\Debug\CharacterStats.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\CharacterStats\bin\Debug\CharacterStats.pdb
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\CharacterStats\obj\Debug\CharacterStats.exe
+C:\Users\george\Desktop\SoftUni\Examinations\Programing_Fundamentals_BasicSyntax\CharacterStats\obj\Debug\CharacterStats.pdb
